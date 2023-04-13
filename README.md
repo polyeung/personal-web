@@ -1,6 +1,8 @@
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# give credits to this repo that help me deploy as static page for react app on github
+https://github.com/gitname/react-gh-pages
 
 ## Available Scripts
 
